@@ -1,0 +1,6 @@
+framework module Pods_ReSwift_Persist_Tests {
+  umbrella header "Pods-ReSwift-Persist_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ReSwift-Persist (0.1.0)
+
+DEPENDENCIES:
+  - ReSwift-Persist (from `../`)
+
+EXTERNAL SOURCES:
+  ReSwift-Persist:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReSwift-Persist: b979aa42dc0b2e76d37b929c5c8007b27e3aaa67
+
+PODFILE CHECKSUM: 2cca55cb66a3e6cbd596b57eb1ae18c3b5716c6a
+
+COCOAPODS: 1.8.3

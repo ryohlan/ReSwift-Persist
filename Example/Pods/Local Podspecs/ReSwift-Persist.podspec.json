@@ -1,0 +1,22 @@
+{
+  "name": "ReSwift-Persist",
+  "version": "0.1.0",
+  "summary": "A short description of ReSwift-Persist.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ryohlan/ReSwift-Persist",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ryohlan": "sunsunryohlan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ryohlan/ReSwift-Persist.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ReSwift-Persist/Classes/**/*"
+}

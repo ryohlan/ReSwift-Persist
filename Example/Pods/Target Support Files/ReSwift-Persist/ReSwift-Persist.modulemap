@@ -1,0 +1,6 @@
+framework module ReSwift_Persist {
+  umbrella header "ReSwift-Persist-umbrella.h"
+
+  export *
+  module * { export * }
+}
