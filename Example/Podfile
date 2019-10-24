@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ReSwift-Persist_Tests' do
+  pod 'ReSwift-Persist', :path => '../'
+  
+  
+end
